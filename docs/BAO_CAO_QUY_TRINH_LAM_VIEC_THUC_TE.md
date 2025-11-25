@@ -367,4 +367,3 @@ Thay vào đó, Strix nên được sử dụng cho:
 ---
 
 *Tài liệu được tạo: Tháng 11/2025*
-*Phiên bản: 1.0*

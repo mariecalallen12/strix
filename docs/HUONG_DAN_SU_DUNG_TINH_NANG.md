@@ -20,7 +20,7 @@
 ### 1.1 Strix Là Gì?
 
 Strix là hệ thống AI agents mã nguồn mở hoạt động như các chuyên gia bảo mật (hackers). Hệ thống này:
-- Chạy mã code động để phát hiện lỗ hổng
+- Chạy code động để phát hiện lỗ hổng
 - Xác nhận lỗ hổng thông qua Proof-of-Concept (PoC)
 - Tạo báo cáo chi tiết với hướng dẫn khắc phục
 
@@ -551,4 +551,3 @@ jobs:
 ---
 
 *Tài liệu được cập nhật: Tháng 11/2025*
-*Phiên bản Strix: 0.3.5*
